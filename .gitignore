@@ -1,0 +1,4 @@
+# Eclipse stuff, compiled files and logs
+target/
+*.class
+*.log
